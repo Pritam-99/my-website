@@ -56,7 +56,7 @@ function App() {
       
       <span className="separator"></span>
       <span className="phone">Phone: </span>
-      <span className="phone-val">9002586079</span>
+      <span className="phone-val">+91-9002586079</span>
       <div className='download-button'>
       <Tooltip title="Download Resume As PDF">
       <IconButton  color="secondary" aria-label="add an alarm" onClick={downloadPdfDocument}>
@@ -68,8 +68,6 @@ function App() {
       <PrintIcon />
       </IconButton>
       </Tooltip>
-      
- 
       </div>
      
     </div>
