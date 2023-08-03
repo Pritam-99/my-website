@@ -39,10 +39,11 @@ body {
   margin-bottom: 5px;
 }
 .header .first-name {
-  font-weight: 700;
+  font-weight: 800;
 }
 .header .last-name {
   font-weight: 300;
+  padding-left: 15px;
 }
 .header .contact-info {
   margin-bottom: 20px;
