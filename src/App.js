@@ -76,7 +76,7 @@ experience.</li>
         </div>
         <div class="section__list-item">
           <div class="left">
-            <div class="name">Indian Institute of Engineering Science and Technology</div>
+            <div class="name">Indian Institute of Engineering Science and <br></br>Technology</div>
             <div class="addr">Howrah, West Bengal, India 711103</div>
             <div class="duration">August 2012- May 2015</div>
             
