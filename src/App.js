@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import { IconButton, Tooltip } from '@mui/material';
+import { Avatar, IconButton, Tooltip } from '@mui/material';
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
 import PrintIcon from '@mui/icons-material/Print';
 import html2canvas from "html2canvas";
 import { jsPDF } from "jspdf";
+import avatar from "./Assets/avatar.jpg"
 
 
 function App() {
@@ -67,6 +68,9 @@ function App() {
       <IconButton  color="secondary" aria-label="add an alarm" onClick={window.print}>
       <PrintIcon />
       </IconButton>
+      </Tooltip>
+      <Tooltip title="Chat With Me">
+      <Avatar alt="Remy Sharp" src={avatar} />
       </Tooltip>
       </div>
      
