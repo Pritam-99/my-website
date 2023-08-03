@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { IconButton, Tooltip } from '@mui/material';
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
+import PrintIcon from '@mui/icons-material/Print';
 import html2canvas from "html2canvas";
 import { jsPDF } from "jspdf";
 
@@ -59,11 +60,18 @@ function App() {
       <div className='download-button'>
       <Tooltip title="Download Resume As PDF">
       <IconButton  color="secondary" aria-label="add an alarm" onClick={downloadPdfDocument}>
-    <FileDownloadIcon />
+     <FileDownloadIcon />
       </IconButton>
       </Tooltip>
+      <Tooltip title="Print Resume">
+      <IconButton  color="secondary" aria-label="add an alarm" onClick={window.print}>
+      <PrintIcon />
+      </IconButton>
+      </Tooltip>
+      
  
       </div>
+     
     </div>
     
     

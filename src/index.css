@@ -132,9 +132,15 @@ body {
 
 .download-button {
     display: flex;
-    padding-left: 600px;
+    padding-left: 500px;
     position: absolute;
     top: 81px;
+}
+.print-button {
+  display: flex;
+  padding-left: 550px;
+  position: absolute;
+  top: 81px;
 }
 
 @media only screen and (max-width: 700px) {
