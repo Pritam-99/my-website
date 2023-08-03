@@ -136,3 +136,24 @@ body {
     position: absolute;
     top: 81px;
 }
+
+@media only screen and (max-width: 700px) {
+  .download-button {
+    display: flex;
+    /* padding-left: 199px; */
+    position: absolute;
+    top: 54px;
+    right: 0;
+}
+.header .last-name {
+  font-weight: 300;
+  padding-left: 6px;
+  font-size: 20px;
+}
+
+.header .first-name {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+}
