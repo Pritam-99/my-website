@@ -332,7 +332,7 @@ Conducted research studies which led to the design and development of a DST-DRC 
        </div>
        <div class="section__list">
          <div class="section__list-item">
-                  Reading Novels, Listen Music, Watching Movies
+                  Reading Novels, Listen Music, Watching Movies, Travel
           </div>
        </div>
      </div>
