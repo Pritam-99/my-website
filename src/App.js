@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
    <>
-   <div>
+   <div >
 <div class="container">
   <div class="header">
     <div class="full-name">
@@ -27,7 +27,7 @@ function App() {
       <span class="position">Full Stack Developer </span>
       <br></br>
       <span class="desc">
-       Hello, I am an adaptable Professional with passion in FrontEnd Web Development. Backed with 5 years of experience in the domain, I am proficient in FrontEnd Web development tools ReacJS, HTML, CSS, Javascript. My Love for problem solving and proactive attitude has driven me to explore new technology and frameworks over the years, ensuring that I can deliver robust and user friendly application. Apart from that, I am actively involved in open source community, contributing to the projects that promotes accessibility and inclusivity in the technology. 
+       Hello, I am an adaptable Professional with passion in FrontEnd Web Development. Backed with 5 years of experience in the domain, I am proficient in FrontEnd Web development tools ReacJS, NodeJs, HTML, CSS, Javascript. My Love for problem solving and proactive attitude has driven me to explore new technology and frameworks over the years, ensuring that I can deliver robust and user friendly application. Apart from that, I am actively involved in open source community, contributing to the projects that promotes accessibility and inclusivity in the technology. 
       </span>
     </div>
   </div>
