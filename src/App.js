@@ -253,16 +253,16 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="left"><div className="name">
              ReactJS</div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" checked/>
+                           <input id="ck4" type="checkbox" defaultChecked/>
             <label for="ck4"></label>
                           <input id="ck5" type="checkbox" />
               <label for="ck5"></label>
@@ -274,16 +274,16 @@ Conducted research studies which led to the design and development of a DST-DRC 
              NodeJs
              </div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" checked/>
+                           <input id="ck4" type="checkbox" defaultChecked/>
             <label for="ck4"></label>
                           <input id="ck5" type="checkbox" />
               <label for="ck5"></label>
@@ -295,16 +295,16 @@ Conducted research studies which led to the design and development of a DST-DRC 
              MongoDb
              </div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" checked/>
+                           <input id="ck4" type="checkbox" defaultChecked/>
             <label for="ck4"></label>
                           <input id="ck5" type="checkbox" />
               <label for="ck5"></label>
@@ -316,16 +316,16 @@ Conducted research studies which led to the design and development of a DST-DRC 
              HTML
              </div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" checked/>
+                           <input id="ck4" type="checkbox" defaultChecked/>
             <label for="ck4"></label>
                           <input id="ck5" type="checkbox" />
               <label for="ck5"></label>
@@ -336,16 +336,16 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="left"><div className="name">
              CSS</div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
-                           <input id="ck4" type="checkbox" checked/>
+                           <input id="ck4" type="checkbox" defaultChecked/>
             <label for="ck4"></label>
                           <input id="ck5" type="checkbox" />
               <label for="ck5"></label>
@@ -357,13 +357,13 @@ Conducted research studies which led to the design and development of a DST-DRC 
              Javascript
              </div></div>
            <div className="right">
-                          <input  id="ck1" type="checkbox" checked/>
+                          <input  id="ck1" type="checkbox" defaultChecked/>
 
              <label for="ck1"></label>
-                          <input id="ck2" type="checkbox" checked/>
+                          <input id="ck2" type="checkbox" defaultChecked/>
 
               <label for="ck2"></label>
-                         <input id="ck3" type="checkbox" checked/>
+                         <input id="ck3" type="checkbox" defaultChecked/>
 
               <label for="ck3"></label>
                            <input id="ck4" type="checkbox" />
