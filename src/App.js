@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import { IconButton, Tooltip } from '@mui/material';
+import FileDownloadIcon from '@mui/icons-material/FileDownload';
+
 
 function App() {
   return (
@@ -21,7 +24,17 @@ function App() {
       <span class="separator"></span>
       <span class="phone">Phone: </span>
       <span class="phone-val">9002586079</span>
+      <div className='download-button'>
+      <Tooltip title="Download Resume As PDF">
+      <IconButton color="secondary" aria-label="add an alarm" >
+  <FileDownloadIcon />
+      </IconButton>
+</Tooltip>
+ 
+      </div>
     </div>
+    
+    
     
     <div class="about">
       <span class="position">Full Stack Developer </span>

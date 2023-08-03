@@ -129,3 +129,10 @@ body {
 .details .skills__item .right input:checked + label {
   background: #79a9ce;
 }
+
+.download-button {
+    display: flex;
+    padding-left: 600px;
+    position: absolute;
+    top: 81px;
+}
