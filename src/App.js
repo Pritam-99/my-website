@@ -255,17 +255,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" defaultChecked/>
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
@@ -276,17 +276,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" defaultChecked/>
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
@@ -297,17 +297,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" defaultChecked/>
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
@@ -318,17 +318,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" defaultChecked/>
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
@@ -338,17 +338,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" defaultChecked/>
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
@@ -359,17 +359,17 @@ Conducted research studies which led to the design and development of a DST-DRC 
            <div className="right">
                           <input  id="ck1" type="checkbox" defaultChecked/>
 
-             <label for="ck1"></label>
+             <label htmlFor="ck1"></label>
                           <input id="ck2" type="checkbox" defaultChecked/>
 
-              <label for="ck2"></label>
+              <label htmlFor="ck2"></label>
                          <input id="ck3" type="checkbox" defaultChecked/>
 
-              <label for="ck3"></label>
+              <label htmlFor="ck3"></label>
                            <input id="ck4" type="checkbox" />
-            <label for="ck4"></label>
+            <label htmlFor="ck4"></label>
                           <input id="ck5" type="checkbox" />
-              <label for="ck5"></label>
+              <label htmlFor="ck5"></label>
 
            </div>
          </div>
