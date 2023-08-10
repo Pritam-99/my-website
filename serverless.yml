@@ -22,7 +22,7 @@ service: my-app
 
 provider:
   name: azure
-  runtime: nodejs12.x
+  runtime: nodejs18.x
   memorySize: 128
   versionFunctions: false
 
