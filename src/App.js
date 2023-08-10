@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Avatar, IconButton, Tooltip } from '@mui/material';
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
